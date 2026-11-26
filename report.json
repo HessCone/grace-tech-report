@@ -1,0 +1,319 @@
+{
+  "as_of": "2026-11-25",
+  "as_of_label": "November 25, 2026, Central Time",
+  "nvidia_revenue": [
+    {
+      "label": "Q1 FY25",
+      "end": "2024-04-28",
+      "y": 26.044,
+      "forecast": false
+    },
+    {
+      "label": "Q2 FY25",
+      "end": "2024-07-28",
+      "y": 30.04,
+      "forecast": false
+    },
+    {
+      "label": "Q3 FY25",
+      "end": "2024-10-27",
+      "y": 35.082,
+      "forecast": false
+    },
+    {
+      "label": "Q4 FY25",
+      "end": "2025-01-26",
+      "y": 39.331,
+      "forecast": false
+    },
+    {
+      "label": "Q1 FY26",
+      "end": "2025-04-27",
+      "y": 44.062,
+      "forecast": false
+    },
+    {
+      "label": "Q2 FY26",
+      "end": "2025-07-27",
+      "y": 46.743,
+      "forecast": false
+    },
+    {
+      "label": "Q3 FY26",
+      "end": "2025-10-26",
+      "y": 57.006,
+      "forecast": false
+    },
+    {
+      "label": "Q4 FY26",
+      "end": "2026-01-25",
+      "y": 68.127,
+      "forecast": false
+    },
+    {
+      "label": "Q1 FY27",
+      "end": "2026-04-26",
+      "y": 81.615,
+      "forecast": false
+    },
+    {
+      "label": "Q2 FY27",
+      "end": "2026-07-26",
+      "y": 96.221,
+      "forecast": false
+    },
+    {
+      "label": "Q3 FY27",
+      "end": "2026-10-25",
+      "y": 115.8,
+      "forecast": false
+    },
+    {
+      "label": "Q4 FY27 outlook",
+      "end": "2027-01-31",
+      "y": 130.0,
+      "forecast": true
+    }
+  ],
+  "ev_sales": [
+    {
+      "year": 2020,
+      "y": 3.0,
+      "note": "About 3 million. IEA.",
+      "forecast": false
+    },
+    {
+      "year": 2021,
+      "y": 6.6,
+      "note": "6.6 million. IEA.",
+      "forecast": false
+    },
+    {
+      "year": 2022,
+      "y": 10.0,
+      "note": "More than 10 million. IEA.",
+      "forecast": false
+    },
+    {
+      "year": 2023,
+      "y": 14.0,
+      "note": "Nearly 14 million. IEA Global EV Outlook 2024.",
+      "forecast": false
+    },
+    {
+      "year": 2024,
+      "y": 17.0,
+      "note": "Exceeded 17 million. IEA Global EV Outlook 2025.",
+      "forecast": false
+    },
+    {
+      "year": 2025,
+      "y": 20.0,
+      "note": "Exceeded 20 million, up 20%. IEA Global EV Outlook 2026.",
+      "forecast": false
+    },
+    {
+      "year": 2026,
+      "y": 23.0,
+      "note": "IEA forecast of 23 million, not a final count.",
+      "forecast": true
+    }
+  ],
+  "spacex_monthly_cumulative": [
+    {
+      "end": "2026-01-31",
+      "spacex": 13,
+      "rest": 11
+    },
+    {
+      "end": "2026-02-28",
+      "spacex": 25,
+      "rest": 17
+    },
+    {
+      "end": "2026-03-31",
+      "spacex": 40,
+      "rest": 32
+    },
+    {
+      "end": "2026-04-30",
+      "spacex": 52,
+      "rest": 51
+    },
+    {
+      "end": "2026-05-31",
+      "spacex": 64,
+      "rest": 62
+    },
+    {
+      "end": "2026-06-30",
+      "spacex": 78,
+      "rest": 77
+    },
+    {
+      "end": "2026-07-31",
+      "spacex": 91,
+      "rest": 91
+    },
+    {
+      "end": "2026-08-31",
+      "spacex": 105,
+      "rest": 103
+    },
+    {
+      "end": "2026-09-30",
+      "spacex": 113,
+      "rest": 122
+    },
+    {
+      "end": "2026-10-31",
+      "spacex": 124,
+      "rest": 132
+    },
+    {
+      "end": "2026-11-26",
+      "spacex": 130,
+      "rest": 147
+    }
+  ],
+  "texas_fleet": [
+    {
+      "t": "2026-09-09T03:36:57Z",
+      "cybercab": 46,
+      "modely": 388,
+      "backfilled": true
+    },
+    {
+      "t": "2026-09-19T00:04:24Z",
+      "cybercab": 58,
+      "modely": 390,
+      "backfilled": true
+    },
+    {
+      "t": "2026-09-22T02:54:07Z",
+      "cybercab": 67,
+      "modely": 409,
+      "backfilled": true
+    },
+    {
+      "t": "2026-09-25T20:47:22Z",
+      "cybercab": 126,
+      "modely": 420,
+      "backfilled": true
+    },
+    {
+      "t": "2026-10-24T21:07:13Z",
+      "cybercab": 431,
+      "modely": 507,
+      "backfilled": true
+    },
+    {
+      "t": "2026-10-28T02:30:43Z",
+      "cybercab": 573,
+      "modely": 507,
+      "backfilled": true
+    },
+    {
+      "t": "2026-11-09T22:44:48Z",
+      "cybercab": 573,
+      "modely": 709,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-10T01:10:09Z",
+      "cybercab": 573,
+      "modely": 709,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-11T14:04:10Z",
+      "cybercab": 573,
+      "modely": 729,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-12T14:00:23Z",
+      "cybercab": 573,
+      "modely": 730,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-13T14:00:44Z",
+      "cybercab": 573,
+      "modely": 730,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-14T14:04:03Z",
+      "cybercab": 573,
+      "modely": 730,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-15T14:03:39Z",
+      "cybercab": 573,
+      "modely": 733,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-16T14:03:48Z",
+      "cybercab": 573,
+      "modely": 733,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-17T14:02:06Z",
+      "cybercab": 573,
+      "modely": 733,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-18T13:58:01Z",
+      "cybercab": 773,
+      "modely": 734,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-19T14:02:24Z",
+      "cybercab": 773,
+      "modely": 734,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-20T13:56:57Z",
+      "cybercab": 773,
+      "modely": 734,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-21T00:30:42Z",
+      "cybercab": 773,
+      "modely": 734,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-22T13:57:54Z",
+      "cybercab": 773,
+      "modely": 734,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-23T14:03:05Z",
+      "cybercab": 773,
+      "modely": 734,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-24T13:57:53Z",
+      "cybercab": 773,
+      "modely": 734,
+      "backfilled": false
+    },
+    {
+      "t": "2026-11-25T14:00:13Z",
+      "cybercab": 822,
+      "modely": 734,
+      "backfilled": false
+    }
+  ]
+}
